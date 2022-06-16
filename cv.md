@@ -19,7 +19,7 @@ I'm 29 years old, and I recently realized that my life needed to change for the 
 
 `let result = sum(1, 2);`
 `alert( result ); `
-Courses:
+## Courses:
 * HTML Code basics
 * CSS Code basics 
 ## Languages
